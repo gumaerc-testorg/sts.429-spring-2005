@@ -4,7 +4,7 @@ description: 'Photograph of a World War I poster. Be patriotic. Sign your countr
   pledge to save the food. Artist: Paul Stahr. Circa 1918. U.S. Food Administration
   poster. (Image courtesy of the Library of Congress, Prints and Photographs Division
   [reproduction number, LC-USZC4-4824 (color film copy transparency)].)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-429-food-and-power-in-the-twentieth-century-spring-2005/af12880cec4255a8a24176cc488fefd8_sts-429s05-th.jpg
+file: /media/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/af12880cec4255a8a24176cc488fefd8_sts-429s05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Be patriotic. Sign your country''s pledge to save the food. Artist: Paul
@@ -14,6 +14,8 @@ image_metadata:
   credit: ''
   image-alt: U.S. Food Administration poster, Circa 1918.  The poster shows a woman
     clad in an American flag, with arms extended.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Be Patriotic (thumbnail)
 uid: af12880c-ec42-55a8-a241-76cc488fefd8
