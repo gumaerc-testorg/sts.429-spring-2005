@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the two course requirements, leading
+  the seminar discussion and completing the research paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

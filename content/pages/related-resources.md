@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course, including
+  documentaries, feature films about food, and other media and web resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
