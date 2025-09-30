@@ -182,7 +182,7 @@ Rice: Food, Identity, and Subsistence
 
 Vennum, Thomas, Jr. _Wild Rice and the Ojibway People_. St. Paul, MN: Minnesota Historical Society, 1988. ISBN: 9780873512268.
 
-Sisters, Kitchen. "[Ricing Time: Harvesting on the Lakes of White Earth](http://www.npr.org/templates/story/story.php?storyId=4165045)."
+Sisters, Kitchen. "{{% resource_link "32c6ebb4-908c-4daa-899c-36d44f6b6844" "Ricing Time: Harvesting on the Lakes of White Earth" %}}."
 
 Carney, Judith. _Black Rice: The African Origins of Rice Cultivation in the Americas_. Cambridge, MA: Harvard University Press, 2002. ISBN: 9780674008342.
 
