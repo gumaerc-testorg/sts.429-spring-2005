@@ -9,10 +9,9 @@ file_size: 2311
 file_type: image/jpeg
 image_metadata:
   caption: 'Be patriotic. Sign your country''s pledge to save the food. Artist: Paul
-    Stahr. Circa 1918. U.S. Food Administration poster. (Image courtesy of the {{%
-    resource_link "37bf82a7-0b47-438e-84ce-62eef3b81f5f" "Library of Congress, Prints
-    and Photographs Division" %}} \[reproduction number, LC-USZC4-4824 (color film
-    copy transparency)\].)'
+    Stahr. Circa 1918. U.S. Food Administration poster. (Image courtesy of the [Library
+    of Congress, Prints and Photographs Division](http://www.loc.gov/rr/print) \[reproduction
+    number, LC-USZC4-4824 (color film copy transparency)\].)'
   credit: ''
   image-alt: U.S. Food Administration poster, Circa 1918.  The poster shows a woman
     clad in an American flag, with arms extended.
